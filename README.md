@@ -64,6 +64,6 @@ This page dives into temporal and behavioral trends.
 - More detailed DAX used for visuals & dynamic interactivity  
  
 ## 📸 Dashboard Previews  
-**[Screenshot 1 – Home Dashboard](https://raw.githubusercontent.com/charitha1204/Pizza-Sales-Dashboard/main/Screenshots/Home%20Dashboard.png)**  
-**[Screenshot 2 – Best/Worst Seller Dashboard](https://raw.githubusercontent.com/charitha1204/Pizza-Sales-Dashboard/main/Screenshots/Best%20or%20Worst%20Seller%20Dashboard.png)**
+**[Screenshot 1 – Home Dashboard](https://raw.githubusercontent.com/charitha1504/Pizza_Sales_Dashboard/main/Screenshots/Home%20Dashboard.png)**  
+**[Screenshot 2 – Best/Worst Seller Dashboard](https://raw.githubusercontent.com/charitha1504/Pizza_Sales_Dashboard/main/Screenshots/Best%20or%20Worst%20Seller%20Dashboard.png)**
 
